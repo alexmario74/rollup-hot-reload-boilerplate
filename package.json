@@ -2,7 +2,7 @@
   "name": "rollup-hot-reload-boilerplate",
   "version": "0.0.1",
   "description": "A boilerplate to start a simple project with Rollup.js, Serve ot reload. Ready to start development.",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
     "serve": "rollup -c -w src/*.js"
   },
