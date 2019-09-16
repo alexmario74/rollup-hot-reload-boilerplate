@@ -12,7 +12,7 @@
     "serve"
   ],
   "author": "alexmario74@gmail.com",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE file",
   "devDependencies": {
     "rollup": "^1.20.1",
     "rollup-plugin-livereload": "^1.0.1",
