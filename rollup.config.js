@@ -5,6 +5,7 @@ module.exports = {
     input: 'src/app.js',
     output: {
         file: 'public/main.js',
+        sourcemap: true,
         format: 'iife'
     },
     plugins: [
