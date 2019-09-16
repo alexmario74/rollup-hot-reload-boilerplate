@@ -18,3 +18,7 @@ All modules have to be imported in `src/main.js` file in order to be avaialble (
 ## Motivation
 
 Just an easy project to start developing quick a front-end app.
+
+## Typescript
+
+If you prefere Typescript have a look to the branch `typescript`.
