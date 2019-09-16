@@ -21,4 +21,4 @@ Just an easy project to start developing quick a front-end app.
 
 ## Typescript
 
-If you prefere Typescript have a look to the branch `typescript`.
+If you prefer to use Typescript, have a look to the branch `typescript`.
