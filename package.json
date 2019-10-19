@@ -1,6 +1,6 @@
 {
   "name": "rollup-hot-reload-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A boilerplate to start a simple project with Rollup.js, Serve ot reload. Ready to start development.",
   "main": "src/app.js",
   "scripts": {
@@ -14,9 +14,9 @@
   "author": "alexmario74@gmail.com",
   "license": "SEE LICENSE IN LICENSE file",
   "devDependencies": {
-    "rollup": "^1.20.1",
-    "rollup-plugin-livereload": "^1.0.1",
+    "rollup": "^1.25.0",
+    "rollup-plugin-livereload": "^1.0.4",
     "rollup-plugin-serve": "^1.0.1",
-    "serve": "^11.1.0"
+    "serve": "^11.2.0"
   }
 }
