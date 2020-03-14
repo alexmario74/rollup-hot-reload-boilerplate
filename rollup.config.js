@@ -6,7 +6,8 @@ module.exports = {
     output: {
         file: 'public/main.js',
         sourcemap: true,
-        format: 'iife'
+        format: 'iife',
+        name: 'main'
     },
     plugins: [
         serve('public'),
