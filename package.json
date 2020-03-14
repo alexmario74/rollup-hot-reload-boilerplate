@@ -18,9 +18,9 @@
     "rollup": "^1.25.0",
     "rollup-plugin-livereload": "^1.0.4",
     "rollup-plugin-serve": "^1.0.1",
-    "serve": "^11.2.0"
-  },
-  "dependencies": {
+    "serve": "^11.2.0",
     "rimraf": "^3.0.2"
+  },
+  "dependencies": { 
   }
 }
