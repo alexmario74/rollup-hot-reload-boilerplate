@@ -4,7 +4,8 @@
   "description": "A boilerplate to start a simple project with Rollup.js, Serve ot reload. Ready to start development.",
   "main": "src/app.js",
   "scripts": {
-    "serve": "rollup -c -w src/*.js"
+    "serve": "rollup -c -w src/*.js",
+    "clean": "rimraf public/main.js public/main.js.map"
   },
   "keywords": [
     "javascript",
@@ -18,5 +19,8 @@
     "rollup-plugin-livereload": "^1.0.4",
     "rollup-plugin-serve": "^1.0.1",
     "serve": "^11.2.0"
+  },
+  "dependencies": {
+    "rimraf": "^3.0.2"
   }
 }
