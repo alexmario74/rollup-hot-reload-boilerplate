@@ -15,11 +15,10 @@
   "author": "alexmario74@gmail.com",
   "license": "SEE LICENSE IN LICENSE file",
   "devDependencies": {
+    "rimraf": "^3.0.2",
     "rollup": "^1.25.0",
     "rollup-plugin-livereload": "^1.0.4",
     "rollup-plugin-serve": "^1.0.2",
-    "serve": "^11.2.0",
-    "rimraf": "^3.0.2"
-  },
-  "dependencies": {}
+    "serve": "^14.2.3"
+  }
 }
